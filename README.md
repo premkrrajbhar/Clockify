@@ -27,6 +27,23 @@ Clockify is a simple web application that helps users view their local date and 
 - **View Date and Time**: The current date and time are automatically displayed when you visit the page.
 - **Live Updates**: The time updates every second, ensuring that the clock is always accurate.
 
+## 📂 Project Structure
+
+```
+├── README.md
+├── assets/
+│   ├── favicon/
+│   │   └── clock-favicon.png
+│   └── screenshot/
+│       └── screenshot.jpg
+├── css/
+│   └── style.css
+├── index.html
+└── script/
+    └── script.js
+
+```
+
 ## 📥 How to Run Locally
 
 - Step 1: Clone the repository:
